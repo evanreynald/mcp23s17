@@ -5,4 +5,4 @@ Firmware project from my internship program
 
 Kindly review:)
 
-ps : I have asked permission from my intership mentor to upload this code
+ps : I have asked permission from my internship mentor to upload this code
