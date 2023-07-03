@@ -9,7 +9,7 @@ In Indonesian
 <p align="center"> <img src="assets/initdiagram.jpg" width="500" height="450"></p>
 
 - ## 2. Set Port Direction Function
-<p align="center"> <img src="assets/setportdirection.jpg" width="500" height="450"></p>
+<p align="center"> <img src="assets/setportdirection.jpg" width="500" height="400"></p>
 
 - ## 3. Get Port Direction Function
 <p align="center"> <img src="assets/getportdirection.jpg" width="500" height="450"></p>
