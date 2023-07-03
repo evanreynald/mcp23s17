@@ -21,7 +21,7 @@ In Indonesian
 <p align="center"> <img src="assets/getpindirection (1).jpg" width="500" height="500"></p>
 
 - ## 6. Testing
-<p align="center"> <img src="assets/testing (1).jpg" width="300" height="500"></p>
+<p align="center"> <img src="assets/testing (1).jpg" width="400" height="400"></p>
 
 # Our team
 - Evandrew Reynald Collin
