@@ -1,7 +1,7 @@
 # MCP23S17
 
 # About
-Linux-based firmware to control MCP23S17 through SPI 
+Linux-based firmware project to control MCP23S17 through SPI from my internship program
 
 # Block Diagram 
 In Indonesian
