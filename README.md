@@ -5,7 +5,7 @@ Linux-based firmware to control MCP23S17 through SPI
 
 # Block Diagram 
 - ## 1. Initialization Function
-<p align="center"> <img src="" width="250" height="250"></p>
+<p align="center"> <img src="docs/assets/css/testing (1).jpg" width="250" height="250"></p>
 
 - ## 2. Set Port Direction Function
 <p align="center"> <img src="" width="250" height="250"></p>
