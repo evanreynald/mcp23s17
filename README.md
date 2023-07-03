@@ -24,5 +24,5 @@ In Indonesian
 <p align="center"> <img src="assets/testing (1).jpg" width="400" height="500"></p>
 
 # Our team
-- Evandrew Reynald Collin
-- Azzahra Nadya Kahpiasa
+- Evandrew Reynald Collin (Sepuluh Nopember Institute of Technology)
+- Azzahra Nadya Kahpiasa (Telkom University)
