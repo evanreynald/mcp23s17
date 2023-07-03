@@ -18,7 +18,7 @@ In Indonesian
 <p align="center"> <img src="assets/setpindirection (1).jpg" width="500" height="500"></p>
 
 - ## 5. Get Pin Direction Function
-<p align="center"> <img src="assets/getpindirection (1).jpg" width="600" height="600"></p>
+<p align="center"> <img src="assets/getpindirection (1).jpg" width="500" height="600"></p>
 
 - ## 6. Testing
 <p align="center"> <img src="assets/testing (1).jpg" width="400" height="500"></p>
