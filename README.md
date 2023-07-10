@@ -22,7 +22,3 @@ In Indonesian
 
 - ## 6. Testing
 <p align="center"> <img src="assets/testing.jpg" width="400" height="500"></p>
-
-# Our team
-- Evandrew Reynald Collin (Sepuluh Nopember Institute of Technology)
-- Azzahra Nadya Kahpiasa (Telkom University)
